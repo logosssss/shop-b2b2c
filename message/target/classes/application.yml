@@ -1,0 +1,11 @@
+eureka:
+  client:
+    register-with-eureka: false
+    service-url: 
+      defaultZone: http://111.229.244.2:7001/eureka/
+spring:
+  mail:
+    host: smtp.163.com
+    username: zhu969175052@163.com
+    password: Jay969175052
+    default-encoding: utf-8

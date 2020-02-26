@@ -1,0 +1,8 @@
+com\cloud\util\MessageUtil.class
+com\cloud\adapter\MessageAdapter.class
+com\cloud\util\EmailUtil.class
+com\cloud\message.class
+com\cloud\mq\ConsumerDistribute.class
+com\cloud\ser\PhoneService.class
+com\cloud\util\MessageByOrderUtil.class
+com\cloud\ser\EmailService.class
